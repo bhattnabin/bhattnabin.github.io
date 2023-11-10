@@ -1,9 +1,9 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
+title: Nabin from Nepal
+description: a tech enthusiast, web developer
+taglong: a tech enthusiast, web developer
+tagshort: Jekyll magic
 url: https://bhattnabin.github.io
 baseurl: ""
 permalink: pretty
@@ -12,7 +12,7 @@ repo: https://github.com/bhattnabin/bhattnabin.github.io
 # author settings
 
 author:
-  name: Place Holder
+  name: nabin
   email: username@domain.com
 photo: /assets/jpg/photo.jpg
 
